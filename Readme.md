@@ -2,7 +2,7 @@
 
 **Overview:**
 There are two implementations of event callback management `Observable` && `CallbackRegistry`.
-The first relies upon the observer to manage it's callback and the second registers the callback with with the registry.
+The first relies upon the observer to manage it's callback and the second registers the callback with the registry.
 
 ### Observable
 
